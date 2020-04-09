@@ -1,8 +1,6 @@
-Pillow==6.0.0
-pkg-resources==0.0.0
+Pillow==7.1.1
 pyaes==1.6.1
-pyasn1==0.4.5
-pytz==2019.1
+pyasn1==0.4.8
+pytz==2019.3
 rsa==4.0
-Telethon==1.8.0
-
+Telethon==1.11.3
