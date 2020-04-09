@@ -1,4 +1,4 @@
-from pil import Image, ImageFont, ImageDraw
+from PIL import Image, ImageFont, ImageDraw
 from datetime import datetime
 from pytz import timezone
 
