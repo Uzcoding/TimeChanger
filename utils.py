@@ -14,6 +14,6 @@ def generate_image(text):
 
     font = ImageFont.truetype(font='resources/ds-digit.ttf', size=212)
     wt, ht = draw.textsize(text, font=font)
-    draw.text(((W - wt) / 2, (H - ht) / 2 ), text, font=font, fill='#157381')
+    draw.text(((W - wt) / 2, (H - ht) / 2 ), text, font=font, fill='#17DD4E')
 
     image.save('time_image.jpg') 
